@@ -1,7 +1,5 @@
 ### Prazer, meu nome é Guilherme 👋🏻
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge"/>
-
 <img width="350rem" align="right" src="https://raw.githubusercontent.com/gist/JustSpica/66a626b2cfda42ab4707811e0b5c9a42/raw/0f852129f337824d3f5b7d81ac1d207a77e6f78b/programming.svg"/>
 
 <div>
