@@ -15,10 +15,3 @@ Sou desenvolvedor front-end React há 2 anos no mercado, onde atuei em múltiplo
 
 - 🕑 Estudo programação há 3 anos, e atuo no mercado como desenvolvedor front-end React há 2 anos.
 - 👩🏻‍💻 Utilizo diariamente em meus projetos várias ferramentas do ecossistema React como: Styled-components/Tailwind, Radix-UI, Axios, React-Router e muito mais.
-
-## Github Estatos
-
-<div>
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=JustSpica&show_icons=true&theme=transparent&title_color=F4F5FA&text_color=979797&icon_color=F4F5FA&locale=pt-br" />
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustSpica&layout=compact&theme=transparent&title_color=F4F5FA&text_color=979797&icon_color=F4F5FA&locale=pt-br" />
-</div>
