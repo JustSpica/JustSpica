@@ -14,4 +14,4 @@
 Sou desenvolvedor front-end React há 2 anos no mercado, onde atuei em múltiplos projetos em escala regional e nacional com algumas das principais ferramentas do ecossistema React.
 
 - 🕑 Estudo programação há 3 anos, e atuo no mercado como desenvolvedor front-end React há 2 anos.
-- 👩🏻‍💻 Utilizo diariamente em meus projetos várias ferramentas do ecossistema React como: Styled-components/Tailwind, Radix-UI, Axios, React-Router e muito mais.
+- 👩🏻‍💻 Utilizo diariamente em meus projetos várias ferramentas do ecossistema React como: Styled-components/Tailwind, Radix-UI, NextJS, Axios, React-Router e muito mais.
