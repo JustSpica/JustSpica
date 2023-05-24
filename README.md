@@ -3,7 +3,7 @@
 <img width="350rem" align="right" src="https://raw.githubusercontent.com/gist/JustSpica/66a626b2cfda42ab4707811e0b5c9a42/raw/0f852129f337824d3f5b7d81ac1d207a77e6f78b/programming.svg"/>
 
 <div>
-  <a href="https://www.linkedin.com/in/guilhermespicaluiz/" target="blank">
+  <a href="https://www.linkedin.com/in/guilhermespica/" target="blank">
     <img height="35rem" src="https://user-images.githubusercontent.com/75824415/204018564-2bfdd33c-6be0-4165-a038-147ad4e42f95.svg"/>
   </a>
   <a href="https://www.instagram.com/guilherme.spica/">
