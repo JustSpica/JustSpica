@@ -1,13 +1,13 @@
 ### Prazer, meu nome é Guilherme 👋🏻
 
-<img width="350rem" align="right" src="https://raw.githubusercontent.com/gist/JustSpica/66a626b2cfda42ab4707811e0b5c9a42/raw/0f852129f337824d3f5b7d81ac1d207a77e6f78b/programming.svg"/>
+<img width="350rem" align="right" src="https://github.com/JustSpica/JustSpica/assets/75824415/27020e6d-8a14-41f5-a0ce-3d79e1fc8dea"/>
 
 <div>
   <a href="https://www.linkedin.com/in/guilhermespica/" target="blank">
-    <img height="35rem" src="https://user-images.githubusercontent.com/75824415/204018564-2bfdd33c-6be0-4165-a038-147ad4e42f95.svg"/>
+    <img src="https://github.com/JustSpica/JustSpica/assets/75824415/f2a7ed8d-b3a5-4391-adbd-cb3ee18e5a23"/>
   </a>
   <a href="https://www.instagram.com/guilherme.spica/">
-    <img height="35rem" src="https://user-images.githubusercontent.com/75824415/204018675-e7a888ad-14f7-488c-85fe-516054a064ec.svg"/>
+    <img src="https://github.com/JustSpica/JustSpica/assets/75824415/504c3fd0-406f-4cac-9078-c01859c8af79"/>
   </a>
 </div>
 
