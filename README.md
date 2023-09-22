@@ -26,6 +26,6 @@ Atualmente sou responsável pela criação e manutenção de diversos projetos d
 
 - [x] ⚡ Algumas das tecnologias atuais que utilizo diariamente em meus projetos são: React, <br /> 
 NextJS, Axios, SWR, React-Query, Tailwind, Styled-components, Radix UI, Material UI, <br />
-Vite, Storybook, Cypress, Jest, e muito mais.
+Vite, Storybook, Cypress, Jest, Docker e muito mais.
 
 <p align="right">Feito de 💚</p>
