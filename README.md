@@ -17,6 +17,7 @@
   </a>
 
 </div>
+<br />
 
 Sou apenas um desenvolvedor Front-end React apaixonado pela área na qual tenho dedicado meus últimos 2 anos na criação de interfaces incríveis, usando essa ferramenta e todo o seu ecossistema.
 
