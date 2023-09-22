@@ -24,8 +24,7 @@ Participei de múltiplos projetos de escala regional e nacional nesse tempo, o q
 
 Atualmente sou responsável pela criação e manutenção de diversos projetos de um CRM automotivo que impacta positivamente mais de 35 mil pessoas 
 
-- [x] ⚡ Algumas das tecnologias atuais que utilizo diariamente em meus projetos são: React, <br /> 
-NextJS, Axios, SWR, React-Query, Tailwind, Styled-components, Radix UI, Material UI, <br />
-Vite, Storybook, Cypress, Jest, Docker e muito mais.
+- [x] ⚡ Algumas das tecnologias atuais que utilizo diariamente em meus projetos são: React, NextJS, Axios, SWR, React-Query, Tailwind, <br />
+Styled-components, Radix UI, Material UI, Vite, Storybook, Cypress, Jest, Docker e muito mais.
 
 <p align="right">Feito de 💚</p>
