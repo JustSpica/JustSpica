@@ -1,20 +1,31 @@
 ### Prazer, meu nome é Guilherme 👋🏻
 
-<img width="350rem" align="right" src="https://github-production-user-asset-6210df.s3.amazonaws.com/75824415/241096250-27020e6d-8a14-41f5-a0ce-3d79e1fc8dea.svg" />
+<img width="350rem" align="right" src="https://github-production-user-asset-6210df.s3.amazonaws.com/75824415/269841679-b8656c71-4a42-41ea-9200-f0d0e663b534.svg" />
 
 <div gap="2rem">
 
   <a href="https://www.linkedin.com/in/guilhermespica/" target="_blank">
-    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/75824415/241103007-c3553fac-b07d-4b9e-8c02-f8c26fb64d05.svg" />
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/75824415/269840586-a2395a1c-92db-465a-a228-edaaba2088db.svg" />
   </a>
   
   <a href="https://www.instagram.com/guilherme.spica/" target="_blank">
-    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/75824415/241103133-4403f664-b2bf-4d97-85a3-c2917415a5f5.svg" />
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/75824415/269840881-23f8219e-a8a0-49e2-92ac-6ef8e850797b.svg" />
+  </a>
+
+  <a href="https://twitter.com/Just_Spica" target="_blank">
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/75824415/269841057-2d4deaf6-c123-4966-8bb5-0adc68069022.svg" />
   </a>
 
 </div>
 
-Sou desenvolvedor front-end React há 2 anos no mercado, e apaixonado pela área desde que comecei a estudar ela há 3 anos atrás por hobby, ainda no ensino médio.
-Trabalhei em multiplos projetos de nivel regional e nacional sempre priorizando pela organização e legibilidade do código, e pela experiência do usuário ao usar a aplicação. 
+Sou apenas um desenvolvedor Front-end React apaixonado pela área na qual tenho dedicado meus últimos 2 anos na criação de interfaces incríveis, usando essa ferramenta e todo o seu ecossistema.
 
-- ⚡ Algumas das atuais tecnologias que eu utilizo em meus projetos são: React, NextJS, Tailwind, Styled-components, Stitches, Radix-UI, Axios, React-Router, Vite e mais.
+Participei de múltiplos projetos de escala regional e nacional nesse tempo, o que me permitiu aprofundar meu conhecimento e habilidades na criação de interfaces de alta qualidade e demandas para altas taxas de usuários ativos.
+
+Atualmente sou responsável pela criação e manutenção de diversos projetos de um CRM automotivo que impacta positivamente mais de 35 mil pessoas 
+
+- [x] ⚡ Algumas das tecnologias atuais que utilizo diariamente em meus projetos são: React, <br /> 
+NextJS, Axios, SWR, React-Query, Tailwind, Styled-components, Radix UI, Material UI, <br />
+Vite, Storybook, Cypress, Jest, e muito mais.
+
+<p align="right">Feito de 💚</p>
