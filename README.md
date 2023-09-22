@@ -22,10 +22,15 @@ Sou apenas um desenvolvedor Front-end React apaixonado pela área na qual tenho 
 
 Participei de múltiplos projetos de escala regional e nacional nesse tempo, o que me permitiu aprofundar meu conhecimento e habilidades na criação de interfaces de alta qualidade e demandas para altas taxas de usuários ativos.
 
-Atualmente sou responsável pela criação e manutenção de diversos projetos de um CRM automotivo que impacta positivamente mais de 35 mil pessoas 
+Atualmente sou responsável pela criação e manutenção de diversos projetos de um CRM automotivo que impacta positivamente mais de 35 mil pessoas
 
-- [x] ⚡ Algumas das tecnologias atuais que utilizo diariamente em meus projetos são: React, NextJS, Axios, SWR, React-Query, Tailwind, <br />
-Styled-components, Radix UI, Material UI, Vite, Storybook, Cypress, Jest, <br /> 
-Docker e muito mais.
+### ⚡ Algumas tecnologias que uso diariamente eu meus projetos
+
+- [x] React e NextJS
+- [x] Tailwind e Styled-components
+- [x] Material UI e Radix UI
+- [x] Jest e Cypress 
+- [x] SWR e React Query
+- [x] Docker
 
 <p align="right">Feito de 💚</p>
