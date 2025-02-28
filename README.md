@@ -5,7 +5,7 @@
 ```js
   const spica = {
     name: "Guilherme Spica Luiz",
-    about: "Full-stack software developer com 4 anos de experiência na criação de softwares robustos.",
+    about: "Fullstack software developer com 4 anos de experiência na criação de softwares robustos.",
     status: {
       open_to_work: true
     },
