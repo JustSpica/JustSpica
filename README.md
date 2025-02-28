@@ -1,4 +1,4 @@
-## Olá, bem-vindo ao meu Github! Me chamo Guilherme Spica, Fullstack developer👋🏼
+## Olá, bem-vindo ao meu Github! Me chamo Guilherme, Fullstack developer👋🏼
 
 ### ⚡`about-me.js`
 
