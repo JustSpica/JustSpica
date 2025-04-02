@@ -14,7 +14,7 @@
       server_side: [Node, Express, Fastify, NestJS, Prisma, TypeORM],
       database: [PostgreSQL, MongoDB, Redis],
       test_tools: [Jest, Vitest, Cypress, Playwright],
-      other_tools: [Docker, Kubernetes, Terraform, Nginx, RabbitMQ, Kafka]
+      devops_tools: [Docker, Kubernetes, Terraform, Nginx, RabbitMQ, Kafka]
     },
     education: {
         degree: "Bacharelado em Ciência da Computação",
